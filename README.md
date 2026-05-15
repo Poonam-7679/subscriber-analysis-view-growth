@@ -22,17 +22,6 @@ This data analytics project analyzes subscriber growth patterns, video view tren
 - **Geographic Distribution** - Audience locations
 - **Retention Analysis** - Watch time patterns
 
-## 🖼️ Dashboard Screenshots
-
-### Main Dashboard View
-*(Add your dashboard screenshot here)*
-
-### Subscriber Growth Trend
-*(Add your growth chart screenshot here)*
-
-### Engagement Analysis
-*(Add your engagement analysis screenshot here)*
-
 ## 💡 Business Impact
 - **Content Strategy** - Data-driven recommendations for content calendar
 - **Audience Targeting** - Identified high-value subscriber segments
